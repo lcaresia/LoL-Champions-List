@@ -5,6 +5,7 @@ Alistar
 Amumu
 Anivia
 Annie
+Aphelios
 Ashe
 Aurelion
 Azir
@@ -45,12 +46,14 @@ Jax
 Jayce
 Jhin
 Jinx
+Kai’Sa
 Kalista
 Karma
 Karthus
 Kassadin
 Katarina
 Kayle
+Kayn
 Kayn
 Kennen
 Kha'Zix
@@ -60,6 +63,7 @@ Kog'Maw
 LeBlanc
 Lee Sin
 Leona
+Lillia
 Lissandra
 Lucian
 Lulu
@@ -74,6 +78,7 @@ Morgana
 Nami
 Nasus
 Nautilus
+Neeko
 Nidalee
 Nocturne
 Nunu
@@ -82,6 +87,8 @@ Orianna
 Ornn
 Pantheon
 Poppy
+Pyke
+Qiyana
 Quinn
 Rakan
 Rammus
@@ -92,6 +99,8 @@ Riven
 Rumble
 Ryze
 Sejuani
+Senna
+Sett
 Shaco
 Shen
 Shyvana
@@ -102,6 +111,7 @@ Skarner
 Sona
 Soraka
 Swain
+Sylas
 Syndra
 Tahm Kench
 Taliyah
@@ -130,7 +140,9 @@ Xayah
 Xerath
 Xin Zhao
 Yasuo
+Yone
 Yorick
+Yuumi
 Zac
 Zed
 Ziggs
